@@ -1,4 +1,4 @@
-# Mr-Sales-Signal
+# AI-Sales-Signal
 
 ## Introduction
 
