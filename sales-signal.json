@@ -5,13 +5,13 @@
     "analysis_input": {
       "instructions": "Think step by step. 1. Analyse the article using the analysis_engine 2. Export the result into a JSON object using the key schema of output_instructions",
       "article": {
-        "title": "Chattermill secures £26m investment",
-        "snippet": "Artificial intelligence-based insights business Chattermill has raised $26m \nin funding from a Series B round, including new and existing...",
+        "title": "",
+        "snippet": "",
         "publisher": "",
-        "datePublished": "7 Dec 2022",
-        "articleLink": "https://www.research-live.com/article/news/chattermill-secures-26m-investment/id/5106282",
-        "textContent": "UK Artificial intelligence-based insights business Chattermill has raised $26m in funding from a Series B round, including new and existing investors.         Venture capital firm Beringea led the investment, with participation from previous investors DN Capital, Ventech, Runa Capital, Btov, SVB, and new investors Blossom Street Ventures.London-headquartered Chattermill was founded in 2015 and uses AI to analyse customer feedback. Clients include HelloFresh and Booking.com.The company said it would use the funding to expand its unified customer intelligence platform, with the aim of allowing clients to analyse more types of data. In recent years, Chattermill has added features to find out what is driving changes in NPS scores and to analyse social media data.Since raising its $8M Series A funding in 2020, the company has more than doubled the size of its team to 80.Mark Shepherd, investment manager at Beringea, said: Chattermill has enabled a blue-chip roster of clients to tap into a data gold mine that had previously been out of reach.Mikhail Dubov, chief executive and co-founder (picured, right), said: Today, customer experience plays a huge part in any businesss success  especially in these challenging economic times.Our goal is that by 2027 our AI is able to analyse over a billion pieces of customer feedback for our clients.Pictured: Chattermill founders Dmitry Isupov andMikhail Dubov",
-        "length": 1485
+        "datePublished": "",
+        "articleLink": "",
+        "textContent": "",
+        "length": ""
       }
     },
     "analysis_desired_output": [
